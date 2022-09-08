@@ -1,4 +1,4 @@
-# Music-Meta-Brain
+# Music-Meta
 
 It is implemented in Python, scraped around 4500 Wikipedia articles about Indian musicians, songs and their albums using BeautifulSoup and constructed a knowledge graph in an unsupervised setting which helps to extract relevant information with context for music search queries.
 
